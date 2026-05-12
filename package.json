@@ -80,7 +80,7 @@
     "viem": "^2.48.11",
     "wagmi": "^3.6.13",
     "web3modal": "^1.9.12",
-    "wouter": "^3.7.1",
+    "wouter": "^3.3.5",
     "zod": "^4.1.12"
   },
   "devDependencies": {
